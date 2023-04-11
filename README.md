@@ -30,7 +30,9 @@ npm start
 ## Deployed on Heroku 
 https://andynewen-text-editor.herokuapp.com/
 
-
+## Screenshots of Text Editor
+<img width="1080" src="/images/text editor photo 1.png">
+<img width="1080" src="/images/text editor photo 2.png">
 
 
 ## User Story : 
